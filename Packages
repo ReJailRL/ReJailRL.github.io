@@ -1,0 +1,48 @@
+Package: ru.rj.vkreborn
+Name: VKReborn
+Description: Дополнение к клиенту VK
+Maintainer: Artem Kasper
+Author: Artem Kasper
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architectire: iphoneos-arm64
+Version: 2.0
+Installed-Size: 11528
+Filename: ./debs/ru_rj_vkreborn_2_0_iphoneos-arm64.deb
+
+Package: ru.rj.adblockplus1
+Name: AdBlock Plus
+Description: Активация PRO версий для WhatsApp Watusi, Rocket For Instagram и других.
+Maintainer: ReJail
+Author: ReJail
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architectire: iphoneos-arm64
+Version: 3.0
+Installed-Size: 72
+Filename: ./debs/ru.rejail.adblockplus1_3.0_iphoneos-arm64.deb
+
+Package: ru.rejail.filza
+Name: Filza File Manager
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Description: File manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Architectire: iphoneos-arm64
+Version: 4.0.1-2
+Installed-Size: 34948
+Filename: ./debs/ru.rejail.filza_4.0.1-2_iphoneos-arm64.deb
+
+Package: ru.shad0wdev.tgsettings
+Name: TGSettings
+Description: Обход чёрного экрана при скриншотах историй/запрещённых каналов
+Maintainer: shad0wdev
+Author: shad0wdev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architectire: iphoneos-arm64
+Version: 0.0.2
+Installed-Size: 88
+Filename: ./debs/ru.shad0wdev.tgsettings_0.0.2_iphoneos-arm64.deb
